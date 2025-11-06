@@ -1,4 +1,4 @@
-# Hi, I'm Moxis Stream 👋
+# Hi, I'm Mahdi Mohammadi 👋
 
 > Teenage coder, strategist, and lifelong learner. I build **bots, AI projects, and web systems**.
 
