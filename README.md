@@ -4,9 +4,7 @@
 
 ---
 
-## 💻 Skills & Tools
-
-### Languages and tools
+## 💻 Languages & Tools
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></a>
@@ -20,18 +18,11 @@
 
 ---
 
-## 🚀 Projects
-- **Telegram Bot System** – Multi-functional bot with MBTI & Enneagram tests [Repo](https://github.com/JustCallMe-Mahdi/MoonCity)  
-- **MoonCity** – Real-time API & database project [Repo](https://github.com/JustCallMe-Mahdi/MoonCity)  
+## 🚀 OWNER MOONCITY
+ **MoonCity** – A telegram bot system with real-time API & database project 
 
 ---
 
 ## 📈 GitHub Stats
 ![Moxis Stream's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustCallMe-Mahdi&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMe-Mahdi&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JustCallMe_Mahdi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justcallme-mahdi)
