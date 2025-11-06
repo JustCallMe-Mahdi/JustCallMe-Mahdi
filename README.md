@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="[https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS3_logo.svg&psig=AOvVaw1ma4-ft_6LME_jY_GrvJR-&ust=1762537492663000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNify_yJ3pADFQAAAAAdAAAAABAE)" alt="CSS3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40" height="40"/>
 </a>
 <a href="https://docs.aiogram.dev/en/latest/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/56398996?s=200&v=4" alt="Aiogram" width="40" height="40"/>
